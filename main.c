@@ -1,5 +1,6 @@
 int main () {
  	char x[10];
+	int t = 1/0;
 	char * y = &(*x);
 	int i = 0 ;
 	while (i < 10) {
