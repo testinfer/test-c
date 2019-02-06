@@ -1,4 +1,4 @@
-int main () {
+void main () {
  	char x[10];
 	int t = 1/0;
 	char * y = &(*x);
